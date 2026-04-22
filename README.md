@@ -2,7 +2,8 @@
 
 I’m @Cathylixi.
 
-I’m interested in AI4S, specifically the intersection between AI/ML in multi-omics.
+I’m interested in AI4S, specifically, the intersection between AI/ML in multi-omics.
+I'm also an AI content creator and tool developer.
 
 ### Links
 - [Google Scholar](https://scholar.google.com/citations?user=KeG-Y4UAAAAJ&hl=en)
