@@ -8,7 +8,7 @@ I'm also an AI content creator and tool developer.
 - [Google Scholar](https://scholar.google.com/citations?user=KeG-Y4UAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/xi-li-557536224/?locale=en)
 - [Personal Webpage](https://cathylixi.github.io/)
-- [Email](mailto:xili@hsph.harvard.edu)
+- How to reach me: xili@hsph.harvard.edu
 
 ### Tools
 - [NESS](https://github.com/Cathylixi/NESS)
