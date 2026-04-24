@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I’m Xi Li @Cathylixi.<br>
+An ordinary PhD student who loves creating AI tools, coding and exploring new things.
+
 My research interest focuses on AI4S, specifically, the intersection between AI/ML in multi-omics.<br>
-I'm also an AI content creator and tool developer.
 
 ### Contact
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=KeG-Y4UAAAAJ&hl=en)
