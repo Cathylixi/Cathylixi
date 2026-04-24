@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ordinary coding girl.
+Ordinary coding girl. See more on my [personal website](https://cathylixi.github.io/).
 
 ### Contact
 🎓 [Google Scholar](https://scholar.google.com/citations?user=KeG-Y4UAAAAJ&hl=en)&nbsp;&nbsp;&nbsp;
