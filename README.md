@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Xi Li.
+Ordinary coding girl.
 
 ### Contact
 🎓 [Google Scholar](https://scholar.google.com/citations?user=KeG-Y4UAAAAJ&hl=en)&nbsp;&nbsp;&nbsp;
