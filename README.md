@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Xi Li, an ordinary PhD student who loves creating AI tools, coding and exploring new things.<br>
+I’m Xi Li, an ordinary PhD student who loves creating tools, coding and exploring new things.<br>
 My research interest focuses on AI4S, specifically, the intersection between AI/ML in multi-omics.<br>
 
 ### Contact
